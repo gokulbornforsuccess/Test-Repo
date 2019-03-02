@@ -4,7 +4,7 @@ Created on Tue Feb 19 07:22:54 2019
 
 @author: gokul
 """
-#my first code
+#my first code changes
 print("Hello Python !!\ngokul") #comments
 
 #
